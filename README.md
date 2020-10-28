@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/UWsltQvf9airbBgmBCXS">
+    <a href="https://devchallenges.io/solutions/jUXCcodolTOR9uUvfyeR">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![Desktop screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges---404-Not-Found-page/main/assets/images/screenshot-404-page.png) ![Modile screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges---404-Not-Found-page/main/assets/images/screenshot-404-page-mobile.png)
+![Desktop screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges-My-team-page/main/assets/images/screenshot-desktop.png) ![Modile screenshot](https://raw.githubusercontent.com/Fridry/DevChallenges-My-team-page/main/assets/images/screenshot-mobile.png)
 
 ### Built With
 
