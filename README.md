@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://dev-challenges-404-not-found-page.vercel.app/">
+    <a href="https://dev-challenges-my-team-page.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -14,7 +14,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -47,7 +47,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
